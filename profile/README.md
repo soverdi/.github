@@ -10,6 +10,9 @@ L'écosystème Soverdi est composé des projets et libraries suivantes:
 - Typescript
 - Dépendances
     - [soverdi-api-models](https://github.com/soverdi/soverdi-api-models)
+    - [portail-api-models](https://github.com/GOAzimut/portail-api-models)
+    - [portail-api-client](https://github.com/GOAzimut/portail-api-client)
+    - [gonet-messenger](https://github.com/GOAzimut/gonet-messenger)
   
 | Stage | URL | Host | CI |
 | --- | --- | --- | --- |
