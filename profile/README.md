@@ -48,8 +48,8 @@ L'écosystème Soverdi est composé des projets et libraries suivantes:
 - Typescript
 - Utilisable en tant que module [npm subrepo](https://github.com/GOAzimut/.github-private/blob/main/profile/NPM_SUBREPO.md)
 - Dépendances
-      - [soverdi-api-models](https://github.com/soverdi/soverdi-api-models)
-      - [api-client-shared](https://github.com/GOAzimut/api-client-shared)
+    - [soverdi-api-models](https://github.com/soverdi/soverdi-api-models)
+    - [api-client-shared](https://github.com/GOAzimut/api-client-shared)
 
 <br>
 <br>
