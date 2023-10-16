@@ -13,6 +13,7 @@ L'écosystème Soverdi est composé des projets et libraries suivantes:
     - [portail-api-models](https://github.com/GOAzimut/portail-api-models)
     - [portail-api-client](https://github.com/GOAzimut/portail-api-client)
     - [gonet-messenger](https://github.com/GOAzimut/gonet-messenger)
+    - [react-shared](https://github.com/GOAzimut/react-shared)
   
 | Stage | URL | Host | CI |
 | --- | --- | --- | --- |
@@ -34,6 +35,8 @@ L'écosystème Soverdi est composé des projets et libraries suivantes:
 | beta | [soverdiapibeta.goazimut.com](https://soverdiapibeta.goazimut.com/)  / [doc](https://soverdiapibeta.goazimut.com/doc) | [AZITESTLINUX-01](192.168.106.34) | GA*|
 
 <br>
+
+## Librairies
 
 ### [soverdi-api-models](https://github.com/soverdi/soverdi-api-models) (Librairie)
 **Librairie partagée pour les models de l'application Soverdi**
