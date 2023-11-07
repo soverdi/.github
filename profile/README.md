@@ -23,7 +23,7 @@ L'écosystème Soverdi est composé des projets et libraries suivantes:
 <br>
 
 ### [soverdi-api](https://github.com/soverdi/soverdi-api) :desktop_computer:
-**Traitement automatique des OCTR qui sont reçus par courriel electronique**
+**API pour l'application soverdi**
 - NodeJS
 - Typescript
 - Dépendances
